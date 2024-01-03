@@ -1,0 +1,33 @@
+.cc {
+   display:flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 30vh;
+}
+
+.vh {
+    height: 100vh;
+    background-color: #0F1035;
+}
+.main{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.big-text{
+    font-size: 5rem;
+}
+
+.about-color{
+    background-color: #0c0e0b;
+}
+.basic{
+    min-height: 60vh;
+    background-color: #0c0e0b;
+}
+.self{
+    max-height: 35vh;
+    border-radius: 10px;
+    border: solid white;
+}
