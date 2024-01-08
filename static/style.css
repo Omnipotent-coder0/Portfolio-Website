@@ -20,14 +20,33 @@
 }
 
 .about-color{
-    background-color: #0c0e0b;
+    
 }
 .basic{
     min-height: 60vh;
-    background-color: #0c0e0b;
+    /* background-color: #0c0e0b; */
+    /* #0a0c09 */
+}
+
+.skills { 
+    background-color: #0a0c09;
+}
+
+.skill-image{
+    max-height: 100%;
+    max-width: 100%;
 }
 .self{
     max-height: 35vh;
     border-radius: 10px;
-    border: solid white;
+    border: solid black;
+}
+
+.vc{
+  display: flex;
+  align-items: center;
+}
+.hc{
+    display: flex;
+    justify-content: center;
 }
